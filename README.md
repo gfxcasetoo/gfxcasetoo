@@ -1,6 +1,4 @@
--  Hi 👋, I’m Souvik
-- 🌱 I’m currently learning at University of Engineering & Management, Kolkata
-- 📫 How to reach me csouvik50@gmail.com
+-  Hi 👋, I’m CASETOO
 
 <!---
 gfxcasetoo/gfxcasetoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
